@@ -1,7 +1,5 @@
 # Customers liability to Asset - Predictive Analysis
 
-## Project Overview
-
 ### Business Objective
 Bank XYZ wants to expand its borrower base efficiently by improving campaign conversion rates using digital transformation strategies. Develop a machine learning model to identify potential borrowers for focused marketing.
 
