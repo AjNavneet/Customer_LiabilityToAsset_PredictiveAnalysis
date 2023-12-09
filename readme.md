@@ -1,4 +1,4 @@
-# Customers liability to asset - Predictive Analysis
+# Customers liability to Asset - Predictive Analysis
 
 ## Project Overview
 
@@ -70,21 +70,5 @@ Folders:
 2. `src`: Contains modularized code for different project steps, including `engine.py` and `ML_Pipeline`.
 3. `output`: Contains the best-fitted model.
 4. `lib`: Reference folder with the original ipython notebook.
-
----
-
-## Concept Explored
-
-1. Basic Exploratory Data Analysis (EDA).
-2. Removal of unwanted features and missing data handling if required, using appropriate methods.
-3. Data distribution using statistical techniques.
-4. Matplotlib and seaborn for data interpretation and advanced visualizations.
-5. Classification techniques like Logistics Regression, Naïve Bayes, Decision Tree Classifier, Random Forest Classifier and Support Vector Machine.
-6. Tuning hyper-parameters
-7. Predictions using the trained model.
-8. Metrics such as accuracy score, confusion matrix, recall, precision and f1 score
-9. Handling the unbalanced data using various methods.
-10. Selection of the best model based on performance metric.
-
 
 ---
